@@ -35,11 +35,11 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movies-sentiment-analysis.git
+   git clone https://github.com/NightPrinceY/MovieSentiment.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd movies-sentiment-analysis
+   cd MovieSentiment
    ```
 3. Install the required dependencies:
    ```bash
@@ -80,7 +80,7 @@ After analyzing the reviews, the following insights were obtained:
 
 ## Contributing
 
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute to this project.
+Contributions are welcome!
 
 ## License
 
@@ -91,5 +91,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or feedback, please contact:
 
 **Your Name**  
-[LinkedIn Profile](your-linkedin-url)  
-[Your Email](mailto:your.email@example.com)
+[LinkedIn Profile](https://www.linkedin.com/in/yahya-alnwsany-8b8206238/)  
+[Your Email](yahyaalnwsany39@gmail.com)
