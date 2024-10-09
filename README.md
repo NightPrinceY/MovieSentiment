@@ -1,6 +1,6 @@
 # Movies Sentiment Analysis
 
-![Movies Sentiment Analysis](path/to/your/image.png) <!-- Replace with the actual path of your image -->
+![Movies Sentiment Analysis](https://github.com/NightPrinceY/MovieSentiment/blob/main/OIG2.jpeg) <!-- Replace with the actual path of your image -->
 
 A comprehensive sentiment analysis project that analyzes movie reviews to classify them as positive, negative, or neutral. Utilizing advanced natural language processing techniques, this project aims to provide insights into public opinion about various films.
 
